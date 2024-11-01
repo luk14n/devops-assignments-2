@@ -1,2 +1,2 @@
-# devops-assignments-2
+# devops-assignment-3
  lab 3
